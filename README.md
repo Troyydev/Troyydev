@@ -1,39 +1,42 @@
-# 👋 Hey, I’m Troyy
+# 👋 Yo, I'm Troyy
 
-I’m a full-stack developer, reverse engineer, and AI tinkerer — building games, systems, and tools that merge logic with creativity.
+I build weird, powerful, and fun stuff — from **VR games** to **LLM assistants**, from **custom APIs** to **hacked hardware**.
 
-🌐 **Website:** [troyy.xyz](https://troyy.xyz)
-
----
-
-## 🚀 What I Do
-
-- 🎮 **[Johns Learning](https://johns-learning.co.uk)**  
-  A surreal, horror-education VR game for Meta Quest 2/3. Built in Unity with custom AI logic, baked lighting, and performance-focused design.
-
-- 🧩 **[PlayFab-Pal](https://troyy.playfab-pal.co.uk)**  
-  A powerful PlayFab toolkit for devs — inventory editing, banning, cloud script testing, and live player insights. Built with Flask + PlayFab APIs.
-
-- 🧠 **LLM Projects (NeuraAssist)**  
-  Desktop AI assistant powered by [Ollama](https://ollama.com), using LLaMA models like MythoMax. Runs locally with GPU control, clipboard, browser, and VS integration.
-
-- 🔐 **Custom Backends**  
-  Flask-based multiplayer and XP APIs with token-secured endpoints, promo code systems, room management, admin control, and threaded cloud backups.
-
-- 🕵️ **Reverse Engineering & Hacking Hardware**  
-  I reverse engineer routers (AJAX APIs, Telnet shells), build Wi-Fi tools like **LANLink-47**, and use ESP32 boards for deauthing, handshake capture, and IoT automation.
+🌐 [troyy.xyz](https://troyy.xyz) &nbsp;|&nbsp; 🛠️ Full-stack dev • 🧠 AI + LLM builder • 🧩 Reverse engineer
 
 ---
 
-## 🛠️ Tools & Tech
+## 🔧 Projects & Creations
 
-**Languages:** Python, C#, Swift, HTML/CSS, JS, Rust  
-**Frameworks:** Flask, Unity, Xcode, Playwright  
-**Hardware:** Meta Quest, Apple Watch, ESP32, Raspberry Pi  
-**AI & Automation:** Ollama, LLaMA, MythoMax, ffmpeg, pyttsx3  
-**Other Tools:** PlayFab, VS Code, Discord.py, Git
+🎮 **[Johns Learning](https://johns-learning.co.uk)**  
+VR horror/edu game for Meta Quest. Think Baldi’s Basics meets existential dread. Unity + custom AI + baked lighting.
+
+🛠️ **[PlayFab-Pal](https://playfab-pal.com)**  
+Playfab in discord — edit inventories, ban users, run scripts. Built with Py-Cord + PlayFab APIs.
+
+🤖 **NeuraAssist**  
+Local LLM assistant using [Ollama](https://ollama.com) + MythoMax. VS integration, browser tools, GPU-aware behavior.
+
+🧠 **Flask Multiplayer Backend**  
+Token-based API with XP leveling, room management, promo codes, and full sync to remote backups.
+
+📡 **LANLink-47**  
+Wi-Fi to Ethernet unlock box powered by Custom PCB. Reverse engineered and built from scratch.
+
+🛠️ **Router Hacking + API Sniffing**  
+Reverse engineering web interfaces, Telnet backdoors, and firmware quirks in custom hardware.
 
 ---
 
-> ⚡ I build tools, bots, games, and systems that *feel alive*. If it moves, talks, or learns — I probably built it.
+## 💻 Toolbox
+
+**Languages** – Python, C#, Swift, JS, HTML/CSS, Rust  
+**Frameworks** – Flask, Unity, Xcode (SwiftUI), Playwright  
+**Hardware** – Meta Quest, ESP32, Apple Watch, Raspberry Pi  
+**AI/Automation** – Ollama, MythoMax, ffmpeg, pyttsx3, Discord.py  
+**Other** – PlayFab, VS Code, Git, Telnet, Wireshark
+
+---
+
+> ⚡ *If it talks, learns, or breaks stuff — I probably built it.*
 
