@@ -4,21 +4,9 @@
 
 ## 🔧 Projects & Creations
 
-🎮 **[Johns Basics](https://johns-learning.co.uk)**  
+🎮 **[Johns Basics](https://www.meta.com/en-gb/experiences/johns-basics/9728424547261512)**  
 VR horror/edu game for Meta Quest. Think Baldi’s Basics meets vr.
 
 🛠️ **[PlayFab-Pal](https://playfab-pal.com)**  
-Playfab in discord — edit inventories, ban users, run scripts. Built with Py-Cord + PlayFab APIs.
-
----
-
-## 💻 Toolbox
-
-**Languages** – Python, C#, C++  
-**Frameworks** – Flask, Unity  
-**Hardware** – Meta Quest, ESP32, Raspberry Pi  
-**AI/Automation** – Ollama, MythoMax, ffmpeg, pyttsx3, Discord.py  
-**Other** – PlayFab, VS Code, Git, Telnet, Wireshark
-
-
+Playfab in discord edit inventories, ban users, run scripts. Built with Py-Cord + PlayFab APIs.
 
